@@ -1,4 +1,4 @@
-<div align="center" font-weight="bold">
+<h1 align="center" style="font-size: 24px;">
   Привет, меня зовут Дмитрий
 </div>
 
