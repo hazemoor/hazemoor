@@ -1,7 +1,6 @@
 <h1 align="center" style="font-size: 24px;">
   Привет, меня зовут Дмитрий
 </h1>
-
 <h2>
   Обо мне:
 </h2>
