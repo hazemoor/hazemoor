@@ -2,7 +2,7 @@
   Привет, меня зовут Дмитрий
 </h1>
 
-### Cтек:
+### Hard Skills:
 
 <table><tr><td valign="top" width="400px">
   
