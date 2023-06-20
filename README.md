@@ -4,7 +4,7 @@
 
 ### Cтек:
 
-<table><tr><td valign="top" width="200px">
+<table><tr><td valign="top" width="600px">
   
 ### Frontend  
 <div align="center">  
