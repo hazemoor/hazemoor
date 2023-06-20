@@ -2,6 +2,10 @@
   Привет, меня зовут Дмитрий
 </h1>
 
+<h2>
+  Обо мне:
+</h2>
+
 <!--
 **hazemoor/hazemoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
