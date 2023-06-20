@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 24px;">
   Привет, меня зовут Дмитрий
-</div>
+</h1>
 
 <!--
 **hazemoor/hazemoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
