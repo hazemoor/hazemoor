@@ -1,4 +1,4 @@
-<div align="center" font-weght="bold">
+<div align="center" font-weight="bold">
   Привет, меня зовут Дмитрий
 </div>
 
