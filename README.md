@@ -60,8 +60,11 @@
 
 <a href="https://t.me/hazemoor" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="tg" height="50" /></a>  
 
-
+<div align="center">  
+  
 ### Статистика
+
+</div>  
 
 <div align="center">
 <a href="http://www.github.com/hazemoor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemoor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
