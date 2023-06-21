@@ -8,7 +8,7 @@
 
 ### Технологии
 
-<table><tr><td valign="top" width="400px">
+<table border="0"><tr><td valign="top" width="400px">
 
 <div align="center">  
   
