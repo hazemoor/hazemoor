@@ -19,7 +19,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="Redux" height="50" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" height="50" /></a>
+<a href="https://github.com/nvm-sh/nvm" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg" alt="nvm" height="50" /></a>
 </div>
 
 </td><td valign="top" width="400px">
