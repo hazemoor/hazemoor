@@ -2,11 +2,11 @@
   Привет, меня зовут Дмитрий
 </h1>
 
-### Обо мне:
+### Обо мне
 
 Я начинающий Frontend-разработчик. Активно изучаю технологии, в будущем хочу изучить Backend и стать Fullstack-разработчиком
 
-### Технологии:
+### Технологии
 
 <table><tr><td valign="top" width="400px">
 
@@ -56,13 +56,11 @@
 
 </td></tr></table>  
 
-### Контакты:
+### Контакты
 
 
 
 ### Статистика
-
-<a href="http://www.github.com/hazemoor"><img src="https://github-readme-stats.vercel.app/api?username=hazemoor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hazemoor's GitHub stats" /></a>
 
 <a href="http://www.github.com/hazemoor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemoor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
