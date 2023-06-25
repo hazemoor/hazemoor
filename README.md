@@ -58,7 +58,8 @@
 
 ### Контакты:
 
-<a href="https://t.me/hazemoor" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="tg" height="50" /></a> <a aria-label="Chat on WhatsApp" href="https://wa.me/+79198372504"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" /> <a />  
+<a href="https://t.me/hazemoor" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="tg" height="50" /></a>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/+79198372504"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" /> </a>  
 
 <div align="center">  
   
