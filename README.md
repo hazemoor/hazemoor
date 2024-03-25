@@ -4,20 +4,9 @@
 
 ### Обо мне:
 
-Я начинающий DevOps-инженер
-
-### Технологии:
-
-<table><tr><td valign="top" width="400px">
-
-<div align="center">  
-  
+Начинающий DevOps-инженер
 
 
-</td><td valign="top" width="400px">
-
-<div align="center">  
-  
 ### DevOps
 
 </div>  
