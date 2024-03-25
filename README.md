@@ -7,7 +7,7 @@
 Начинающий DevOps-инженер
 
 
-### DevOps
+### Hard Skills
 
 </div>  
 
